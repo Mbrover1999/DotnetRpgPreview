@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BG9xCsDa27nb8Mgeqvn1VqMLZQ6rauUI7HUoUxrFgiU=",
+  "Source": "DotnetRpg",
+  "BasePath": "_content/DotnetRpg",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
